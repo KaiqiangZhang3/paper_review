@@ -67,6 +67,26 @@ Use the professor's chosen output language from intake question 4 for the whole 
 
 [Apply the selected master's, doctoral, or peer-review standard.]
 
+## [Localized equivalent of "Thesis-Specific Assessment"] (For Doctoral Work Only)
+
+[Include this section ONLY for doctoral dissertations and thesis chapters. Omit for master's papers and peer-review manuscripts unless they claim major theoretical contribution.]
+
+### [Problem Scope and Scale]
+
+[Does the thesis clearly define what problem it addresses, at what level of significance, and with what boundaries? Is the problem scope appropriate for a doctoral thesis?]
+
+### [Methodological Path and Alternatives]
+
+[Does the thesis identify its analytical framework (doctrinal, theoretical, empirical, normative, institutional)? Does it acknowledge alternative approaches and justify its choice?]
+
+### [Contribution and Challenge]
+
+[Does the thesis explicitly state what it contributes (new interpretation, theoretical framework, empirical finding, normative critique) or challenges (dominant scholarly position, received doctrine, policy consensus)? Is this contribution demonstrated?]
+
+### [Adverse Scholarship Engagement]
+
+[Does the thesis identify scholarship that challenges its claims? Does it respond substantively in analytical chapters, or only cite contrary views in a disconnected literature review?]
+
 ## [Localized equivalent of "Writing and Structure"]
 
 [Assess organization, headings, paragraph logic, roadmap, and clarity.]

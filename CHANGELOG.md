@@ -2,6 +2,47 @@
 
 All notable changes to this skill will be documented in this file.
 
+## [1.5.0] - 2026-06-27
+
+### Added - Thesis-Specific Assessment Framework
+
+**New reference file**: `references/thesis-assessment-framework.md`
+
+Four new assessment dimensions for **doctoral dissertations and thesis chapters**:
+
+1. **Problem Scope and Scale (多大的事儿)**
+   - Assesses whether the thesis clearly articulates what problem or theoretical question it addresses
+   - Evaluates problem significance and boundary definition
+   - Identifies scope inflation, unstated boundaries, and problem-solution mismatch
+
+2. **Methodological Path and Alternatives (脉络选择)**
+   - Assesses whether the thesis explains its chosen analytical framework (doctrinal, theoretical, empirical, normative, institutional)
+   - Evaluates whether alternatives are acknowledged and the chosen path is justified
+   - Identifies methodological silence, method-problem mismatch, and unacknowledged alternatives
+
+3. **Contribution and Challenge (贡献/挑战)**
+   - Assesses whether the thesis explicitly states what it contributes or challenges
+   - Evaluates whether contribution is demonstrated vs. merely asserted
+   - Distinguishes doctrinal refinement, theoretical framework, empirical finding, normative critique, and institutional design contributions
+   - Identifies contribution by topic selection alone, implicit contributions, and overstated/understated claims
+
+4. **Adverse Scholarship Engagement (学术挑战的处理)**
+   - Assesses whether the thesis identifies scholarship that challenges its claims
+   - Evaluates whether contrary positions are addressed substantively in analytical chapters (not just cited in literature review)
+   - Identifies strawman engagement, citation without engagement, and evasion through scope claims
+
+### Changed
+
+- **Doctoral Paper mode standard** enhanced with thesis-specific dimensions
+- **Memorandum template** now includes "Thesis-Specific Assessment" section for doctoral work
+- **SKILL.md** now requires reading `thesis-assessment-framework.md` for doctoral dissertations
+
+### Design Philosophy
+
+These dimensions assess **scholarly self-awareness**: whether the doctoral candidate understands what they are doing, why, and how it fits into existing scholarship. They supplement rather than replace standard legal review dimensions.
+
+---
+
 ## [1.1.0] - 2026-06-27
 
 ### Added

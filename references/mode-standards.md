@@ -30,6 +30,10 @@ Purpose: assess whether the paper can support advanced scholarly contribution.
 
 Emphasize:
 
+- **Problem scope and scale**: Can the thesis clearly articulate what problem it addresses and at what level of significance? Are boundaries defined?
+- **Methodological path selection**: Does the thesis justify its chosen analytical framework and acknowledge alternative approaches? Does it explain why this path is appropriate?
+- **Contribution and challenge**: Does the thesis explicitly state what it contributes to or challenges in existing scholarship? Is this contribution demonstrated rather than asserted?
+- **Adverse scholarship engagement**: Does the thesis identify contrary scholarly positions and address them substantively within analytical chapters (not just in a disconnected literature review)?
 - Originality, significance, and precision of the research intervention.
 - Explicit method or theory where the argument depends on one.
 - Depth of literature engagement and accurate positioning against existing scholarship.
@@ -40,11 +44,26 @@ Emphasize:
 
 Common serious defects:
 
+- **Problem scope undefined or inflated**: The thesis states a problem so broadly that it cannot be meaningfully addressed, or never specifies boundaries.
+- **Methodological silence**: The thesis adopts an analytical approach without explaining or justifying it; alternatives are not acknowledged.
+- **Contribution by topic selection alone**: The thesis claims originality because it addresses an under-studied area but does not articulate what new understanding it generates.
+- **Adverse scholarship ignored or cited without engagement**: Contrary positions appear in the literature review but are never addressed in analytical chapters.
 - The thesis is broad but not original.
 - Literature review is separated from the argument instead of shaping it.
 - Legal materials are numerous but not controlled.
 - The paper avoids the strongest objections to its claim.
 - The contribution depends on a method the paper does not explain.
+
+### Thesis-Specific Assessment for Doctoral Work
+
+For doctoral dissertations and thesis chapters, apply the four-dimension framework from `thesis-assessment-framework.md`:
+
+1. **Problem Scope and Scale** (多大的事儿) — Does the thesis clearly define the problem's nature, significance, and boundaries?
+2. **Methodological Path and Alternatives** (脉络选择) — Does the thesis justify its chosen intellectual framework and acknowledge competing approaches?
+3. **Contribution and Challenge** (贡献/挑战) — Does the thesis explicitly state what it contributes or challenges, and is this demonstrated?
+4. **Adverse Scholarship Engagement** (学术挑战的处理) — Does the thesis identify and substantively respond to contrary scholarly positions?
+
+Include a dedicated "Thesis-Specific Assessment" section in the review memorandum after standard dimensions.
 
 ## Peer-Review Manuscript
 
