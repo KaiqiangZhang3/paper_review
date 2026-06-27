@@ -2,6 +2,57 @@
 
 All notable changes to this skill will be documented in this file.
 
+## [1.9.0] - 2026-06-27
+
+### Major Change: Four-Dimension Framework Now Universal
+
+**Breaking conceptual change**: The four assessment dimensions introduced in v1.5.0 for doctoral work are now applied to **ALL papers** (master's, doctoral, peer-review, coursework), with expectations adjusted by paper type.
+
+### Rationale
+
+These dimensions assess fundamental scholarly awareness that should be present at all levels:
+- **Problem clarity** matters for all academic work
+- **Methodological awareness** helps even master's students understand what they're doing
+- **Contribution articulation** distinguishes argument from description at all levels
+- **Literature engagement** is expected even in coursework papers
+
+The difference is **rigor and depth**, not presence/absence.
+
+### Changed
+
+**File renamed**:
+- `references/thesis-assessment-framework.md` → `references/four-dimension-framework.md`
+
+**Application rules revised**:
+- **Doctoral dissertations**: Full rigor on all four dimensions (unchanged from v1.5.0)
+- **Peer-review manuscripts**: Full rigor, especially Dimensions 2, 3, 4 (maps to common reviewer objections)
+- **Master's papers**: Moderate expectations adjusted to program level (NEW)
+- **Coursework papers**: Selective application, focus on Dimensions 1 and 3 (NEW)
+
+**Mode standards enhanced**:
+- All three mode standards (Master's, Doctoral, Peer-Review) now include four-dimension guidance
+- Each mode specifies adjusted expectations
+- Common defects updated to include dimension-specific issues
+
+**Memorandum template updated**:
+- Section title changes by paper type: "Four-Dimension Assessment" (doctoral/peer-review) or "Scholarly Awareness Assessment" (master's)
+- Each dimension's template now includes adjusted expectations for different paper types
+
+**SKILL.md updated**:
+- `four-dimension-framework.md` is now mandatory reference for all papers (not conditional)
+
+### Philosophy
+
+v1.5.0 created these dimensions for doctoral work because that's where they're most critical. v1.9.0 recognizes that these are fundamental questions of scholarly practice that apply at all levels, just with different expectations.
+
+A master's paper should still articulate what problem it addresses (Dimension 1), even if the scope is narrower than doctoral work. A peer-review manuscript must explicitly state its contribution (Dimension 3) or face "so what?" from reviewers.
+
+### Backward Compatibility
+
+Reviews of doctoral work are unchanged in rigor from v1.5.0. Reviews of master's and peer-review work gain additional diagnostic dimensions that were previously implicit in "Literature Engagement" and "Research Question" assessments.
+
+---
+
 ## [1.5.0] - 2026-06-27
 
 ### Added - Thesis-Specific Assessment Framework

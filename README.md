@@ -113,20 +113,26 @@ This skill does NOT automatically provide:
 
 ## Version
 
-Current version: **1.5.0** (2026-06-27)
+Current version: **1.9.0** (2026-06-27)
 
-### What's New in v1.5.0
+### What's New in v1.9.0
 
-**Thesis-Specific Assessment Framework** for doctoral dissertations:
+**Four-Dimension Framework Now Universal** — Applied to ALL papers with adjusted expectations:
 
-Four new evaluation dimensions assess scholarly self-awareness:
+Four evaluation dimensions now assess scholarly awareness at all levels:
 
-1. **Problem Scope and Scale** — Can the thesis articulate what problem it addresses and at what level of significance?
-2. **Methodological Path Selection** — Does the thesis justify its chosen analytical framework and acknowledge alternatives?
-3. **Contribution and Challenge** — Does the thesis explicitly state what it contributes or challenges in existing scholarship?
-4. **Adverse Scholarship Engagement** — Does the thesis identify and substantively respond to contrary scholarly positions?
+1. **Problem Scope and Scale (多大的事儿)** — Does the paper clearly articulate what problem it addresses and at what level of significance?
+2. **Methodological Path Selection (脉络选择)** — Does the paper identify its analytical framework and (for advanced work) justify it?
+3. **Contribution and Challenge (贡献/挑战)** — Does the paper explicitly state what it contributes or challenges?
+4. **Adverse Scholarship Engagement (学术挑战的处理)** — Does the paper identify and engage with contrary scholarly positions?
 
-These dimensions are automatically applied to doctoral work and supplement standard legal review criteria.
+**Application by paper type**:
+- **Doctoral**: Full rigor on all four dimensions
+- **Peer-review**: Full rigor (maps to common reviewer objections)
+- **Master's**: Moderate expectations, adjusted to program level
+- **Coursework**: Selective, focus on problem clarity and contribution
+
+Previously (v1.5.0) these were only for doctoral work. v1.9.0 recognizes that these are fundamental questions of scholarly practice at all levels, just with different expectations.
 
 See [CHANGELOG.md](./CHANGELOG.md) for full version history.
 

@@ -67,25 +67,43 @@ Use the professor's chosen output language from intake question 4 for the whole 
 
 [Apply the selected master's, doctoral, or peer-review standard.]
 
-## [Localized equivalent of "Thesis-Specific Assessment"] (For Doctoral Work Only)
+## [Localized equivalent of "Four-Dimension Assessment" / "Scholarly Awareness Assessment"]
 
-[Include this section ONLY for doctoral dissertations and thesis chapters. Omit for master's papers and peer-review manuscripts unless they claim major theoretical contribution.]
+[Include this section for ALL papers, with section title and depth adjusted by paper type:
+- Doctoral/Peer-review: "Four-Dimension Assessment" (400-600 words or 300-400 words)
+- Master's: "Scholarly Awareness Assessment" (200-300 words)
+- Coursework: Integrate into "Main Problems" if significant]
 
 ### [Problem Scope and Scale]
 
-[Does the thesis clearly define what problem it addresses, at what level of significance, and with what boundaries? Is the problem scope appropriate for a doctoral thesis?]
+[Does the paper clearly define what problem it addresses, at what level of significance, and with what boundaries? Adjust expectations:
+- Doctoral: Full clarity, significance demonstrated, boundaries explicit
+- Master's: Clear problem statement, appropriate scope
+- Peer-review: Significance defensible to journal editors]
 
 ### [Methodological Path and Alternatives]
 
-[Does the thesis identify its analytical framework (doctrinal, theoretical, empirical, normative, institutional)? Does it acknowledge alternative approaches and justify its choice?]
+[Does the paper identify its analytical framework (doctrinal, theoretical, empirical, normative, institutional)? Does it acknowledge alternative approaches and justify its choice? Adjust expectations:
+- Doctoral: Full justification and alternative awareness
+- Master's: Basic awareness, not full justification
+- Peer-review: Clarity essential (reviewers from different traditions will object)
+- Coursework: Apply only if paper claims scholarly contribution]
 
 ### [Contribution and Challenge]
 
-[Does the thesis explicitly state what it contributes (new interpretation, theoretical framework, empirical finding, normative critique) or challenges (dominant scholarly position, received doctrine, policy consensus)? Is this contribution demonstrated?]
+[Does the paper explicitly state what it contributes (new interpretation, theoretical framework, empirical finding, normative critique) or challenges (dominant scholarly position, received doctrine, policy consensus)? Is this contribution demonstrated? Adjust expectations:
+- Doctoral: Original contribution, explicitly stated and demonstrated
+- Master's: Clear argument or claim (not just topic survey)
+- Peer-review: Explicit contribution central to publishability
+- Coursework: Contribution awareness encouraged but not required]
 
 ### [Adverse Scholarship Engagement]
 
-[Does the thesis identify scholarship that challenges its claims? Does it respond substantively in analytical chapters, or only cite contrary views in a disconnected literature review?]
+[Does the paper identify scholarship that challenges its claims? Does it respond substantively in analytical chapters, or only cite contrary views in a disconnected literature review? Adjust expectations:
+- Doctoral: Comprehensive identification and substantive response
+- Master's: Basic engagement, not comprehensive response
+- Peer-review: Reviewers will notice omitted contrary positions
+- Coursework: Apply only if paper engages with literature]
 
 ## [Localized equivalent of "Writing and Structure"]
 

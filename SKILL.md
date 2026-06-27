@@ -20,12 +20,9 @@ Before reviewing any paper, read these reference files completely:
 - `references/legal-assessment-tests.md`
 - `references/memo-template.md`
 - `references/output-file-protocol.md`
+- `references/four-dimension-framework.md`
 
-**For doctoral dissertations and thesis chapters**, also read:
-
-- `references/thesis-assessment-framework.md`
-
-This framework adds four dimensions specific to scholarly thesis evaluation: problem scope/scale, methodological path selection, contribution/challenge articulation, and adverse scholarship engagement.
+The four-dimension framework applies to **all papers** (doctoral, master's, peer-review, coursework) with expectations adjusted by paper type. These dimensions assess: problem scope/scale, methodological path selection, contribution/challenge articulation, and adverse scholarship engagement.
 
 ## Intake Questions
 
